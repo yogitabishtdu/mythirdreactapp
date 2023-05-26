@@ -15,6 +15,7 @@ function App() {
     <>
     <h1 style={newstyle}> My third react app </h1>
     <h2> I have made few changes today</h2>
+    <h3> Changes from github </h3>
     </>
       );
 }
